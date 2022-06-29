@@ -1,0 +1,12 @@
+{ 
+    "movie": "The Northman",
+    "rating":{
+        "stars": 7.2,
+        "ratingAmount": 131000
+    },
+    "release": 2022,
+    "description": "From visionary director Robert Eggers comes The Northman, an action-filled epic that follows a young Viking prince on his quest to avenge his father's murder.",
+    "genres": ["action", "adventure", "drama"],
+    "director": ["Robert Eggers"],
+    "lead": ["Alexander Skarsgård", "Nicole Kidman", "Claes Bang"]
+}

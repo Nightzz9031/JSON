@@ -1,0 +1,13 @@
+{ 
+    "movie": "Doctor Strange in the Multiverse of Madness",
+    "rating":{
+        "stars": 7.1,
+        "ratingAmount": 255000
+        
+    },
+    "release": 2022,
+    "description": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+    "genres": ["action", "adventure", "fantasy"],
+    "director": ["Sam Raimi"],
+    "lead": ["Benedict Cumberbatch", "Xochitl Gomez", "Elizabeth Olson"]
+}

@@ -1,0 +1,21 @@
+#movies-list div {
+  width: 500px;
+  height: auto;
+  background-color: rgb(79, 122, 109);
+  margin: 5px;
+  display: block;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid yellow;
+}
+
+#movies-list {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: lightgray;
+}
+
+img {
+  width: 500px;
+  height: 600px;
+}/*# sourceMappingURL=style.css.map */

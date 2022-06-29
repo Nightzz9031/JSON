@@ -1,0 +1,12 @@
+{ 
+    "movie": "Spiderhead",
+    "rating":{
+        "stars": 5.4,
+        "ratingAmount": 27000
+    },
+    "release": 2022,
+    "description": "In the near future, convicts are offered the chance to volunteer as medical subjects to shorten their sentence. One such subject for a new drug capable of generating feelings of love begins questioning the reality of his emotions.",
+    "genres": ["action", "crime", "drama"],
+    "director": ["Joseph Kosinski"],
+    "lead": ["Chris Hemsworth", "Miles Teller", "Jurnee Smollett"]
+}

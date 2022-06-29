@@ -1,0 +1,133 @@
+[
+    { 
+        "movie": "Doctor Strange in the Multiverse of Madness",
+        "rating":{
+            "stars": 7.1,
+            "ratingAmount": 255000
+            
+        },
+        "release": 2022,
+        "description": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse. They seek help from Wanda the Scarlet Witch, Wong and others.",
+        "genres": ["action", "adventure", "fantasy"],
+        "director": ["Sam Raimi"],
+        "lead": ["Benedict Cumberbatch", "Xochitl Gomez", "Elizabeth Olson"],
+        "img": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg"
+    },
+    { 
+        "movie": "Top Gun: Maverick",
+        "rating":{
+            "stars": 8.6,
+            "ratingAmount": 196000
+        },
+        "release": 2022,
+        "description": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground",
+        "genres": ["action", "drama"],
+        "director": ["Joseph Kosinski"],
+        "lead": ["Tom Cruise", "Miles Teller"],
+        "img": "https://pics.filmaffinity.com/top_gun_maverick-537976462-large.jpg"
+    },
+    { 
+        "movie": "The Northman",
+        "rating":{
+            "stars": 7.2,
+            "ratingAmount": 131000
+        },
+        "release": 2022,
+        "description": "From visionary director Robert Eggers comes The Northman, an action-filled epic that follows a young Viking prince on his quest to avenge his father's murder.",
+        "genres": ["action", "adventure", "drama"],
+        "director": ["Robert Eggers"],
+        "lead": ["Alexander Skarsgård", "Nicole Kidman", "Claes Bang"],
+        "img": "https://m.media-amazon.com/images/M/MV5BMzVlMmY2NTctODgwOC00NDMzLWEzMWYtM2RiYmIyNTNhMTI0XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg"
+    },
+    { 
+        "movie": "The Hangover",
+        "rating":{
+            "stars": 7.7,
+            "ratingAmount": 771000
+        },     
+        "release": 2009,
+        "description": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+        "genres": ["comedy"],
+        "director": ["Todd Phillips"],
+        "lead": ["Zach Galifianakis", "Bradley Cooper", "Justin Bartha"],
+        "img": "https://m.media-amazon.com/images/M/MV5BNGQwZjg5YmYtY2VkNC00NzliLTljYTctNzI5NmU3MjE2ODQzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_FMjpg_UX1000_.jpg"
+    },
+    { 
+        "movie": "The Matrix",
+        "rating":{
+            "stars": 8.7,
+            "ratingAmount": 1900000
+        },
+        "release": 1999,
+        "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+        "genres": ["action", "sci-fi"],
+        "director": ["Lana Wachowski", "Lilly Wachowski"],
+        "lead": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Ann Moss"],
+        "img": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1000_.jpg"
+    },
+    { 
+        "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "rating":{
+            "stars": 8.1,
+            "ratingAmount": 1100000
+        },
+        "release": 2003,
+        "description": "Blacksmith Will Turner teams up with eccentric pirate 'Captain' Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+        "genres": ["action", "adventure", "fantasy"],
+        "director": ["Gore Verbinski"],
+        "lead": ["Johnny Depp", "Orlando Blood", "Geoffrey Rush", "Keira Knightley"],
+        "img": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg"
+    },
+    { 
+        "movie": "Spiderhead",
+        "rating":{
+            "stars": 5.4,
+            "ratingAmount": 27000
+        },
+        "release": 2022,
+        "description": "In the near future, convicts are offered the chance to volunteer as medical subjects to shorten their sentence. One such subject for a new drug capable of generating feelings of love begins questioning the reality of his emotions.",
+        "genres": ["action", "crime", "drama"],
+        "director": ["Joseph Kosinski"],
+        "lead": ["Chris Hemsworth", "Miles Teller", "Jurnee Smollett"],
+        "img": "https://m.media-amazon.com/images/M/MV5BNDVkZTc4OTktNTAyOC00MzQxLThiZjMtM2M3MTlmYzFjY2FkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    { 
+        "movie": "The Godfather",
+        "rating":{
+            "stars": 9.2,
+            "ratingAmount": 1800000
+        },
+        "release": 1972,
+        "description": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+        "genres": ["crime", "drama"],
+        "director": ["Francis Ford Coppola"],
+        "lead": ["Marlon Brando", "Al Pacino", "James Caan"],
+        "img": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+    },
+    { 
+        "movie": "The Shawshank Redemption",
+        "rating":{
+            "stars": 9.3,
+            "ratingAmount": 2600000
+        }, 
+        "release": 1994,
+        "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "genres": ["drama"],
+        "director": ["Frank Darabont"],
+        "lead": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+        "img": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    { 
+        "movie": "The Dark Knight",
+        "rating":{
+            "stars": 9.0,
+            "ratingAmount": 2600000
+        },
+        "release": 2008,
+        "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "genres": ["action", "crime", "drama"],
+        "director": ["Christopher Nolan"],
+        "lead": ["Christian Bale", "Heath Ledge", "Aaron Eckhart"],
+        "img": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+    }
+]
