@@ -1,27 +1,19 @@
 fetch('movies-list.json')
-    .then(res => res.json())
-    .then(data => {
-        console.log(data);
-        // moviesList.map((movieId) => {
-        //     console.log(movieId);
-        // })
-    })
-fetch('movies-list.json')
   .then((res) => res.json())
   .then((movieIds) => {
     movieIds.forEach((item) => {
-      fetch(`./movies/${item}.json`)
+      fetch(`movies/${item}.json`)
         .then((res) => res.json())
         .then((movie) => {
           const div = document.createElement('div');
-          div.innerHTML = `<h2>${movie.title}</h2>
-                          <p>${movie.userRating.rating}</p>
-                          <p>${movie.userRating.votes}</p>
-                          <p>${movie.releaseYear}</p>
+          div.innerHTML = `<h2>${movie.movie}</h2>
+                          <p>${movie.rating.stars}</p>
+                          <p>${movie.rating.ratingAmount}</p>
+                          <p>${movie.release}</p>
                           <p>${movie.description}</p>
                           <p>${movie.genres}</p>
-                          <p>${movie.directors}</p>
-                          <p>${movie.stars}</p>`;
+                          <p>${movie.director}</p>
+                          <p>${movie.lead}</p>`;
           document.body.append(div);
         });
     });
