@@ -13,7 +13,7 @@ fetch('movies.json')
                                     <img src="${movie.img}">
                                    <ul>
                                     <li><strong>Release year:</strong> ${movie.release}</li>
-                                    <li><strong>Rating:</strong> ${movie.rating.stars}/10 with ${movie.rating.ratingAmount} votes</li>
+                                    <li><strong>Rating:</strong> ${movie.rating.stars}/10⭐ with ${movie.rating.ratingAmount} votes</li>
                                     <li><strong>Director(-s):</strong> ${movie.director}</li>
                                     <li><strong>Genres:</strong> ${movie.genres}
                                     <li><strong>Lead actors:</strong> ${movie.lead}</li>
